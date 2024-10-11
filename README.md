@@ -24,7 +24,7 @@
 
 3. Clona el repositorio o descarga los archivos del proyecto:
 
-git clone https://github.com/tu_usuario/juego_de_naves.git
+git clone https://github.com/jucrm/juego_de_naves.git
 cd juego_de_naves
 # Ejecución
 Para ejecutar el juego, usa el siguiente comando en la terminal:
